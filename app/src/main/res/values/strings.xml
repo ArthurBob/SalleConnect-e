@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalleConnectée</string>
+    <string name="write_nfc_tag">Write NFC Tag</string>
+    <string name="enter_text">Enter text</string>
+</resources>
